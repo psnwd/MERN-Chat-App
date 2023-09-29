@@ -45,8 +45,7 @@ Follow these steps to set up and run the chat application on your local machine:
     cd ../frontend && npm start
     ```
 
-
-The client application should now be accessible in your web browser at http://localhost:3000.
+    The client application should now be accessible in your web browser at http://localhost:3000.
 
 5. **Usage**: Open the application in multiple browser tabs or windows, sign in with unique usernames, and start chatting!
 
